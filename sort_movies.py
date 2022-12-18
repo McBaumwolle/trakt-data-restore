@@ -11,7 +11,7 @@ def sort_out(json):
         # loop through the seasons
         for j in i['playDates']:
             # only take data after 2022-11-07
-            if j > '2022-11-11':
+            if j > '2022-11-07':
                 # add the episode to the list
                 films.append(i['id'])
 
