@@ -1,5 +1,5 @@
 # format_trakt_app_data
-Simple python script to format any trakt data from the app cache after 11.11.2022. 
+Simple python script to format any trakt data from the app cache after 07.11.2022. 
 
 # how to use
 0. (setup Python)
