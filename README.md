@@ -8,4 +8,5 @@ Simple python script to format any trakt data from the app cache after 11.11.202
 3. Run both scripts.
 4. View your data!
 
-
+# hot to get the app cache
+![image](https://user-images.githubusercontent.com/67203883/208303634-363c8a3b-58c9-4e99-b88f-73992a8600b1.png)
