@@ -1,4 +1,4 @@
-# format_trakt_app_data
+# trakt-data-restore
 Simple python scripts to format any trakt data from the app cache or browser localstorage after 07.11.2022. 
 
 # how to use
