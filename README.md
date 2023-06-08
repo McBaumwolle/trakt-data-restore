@@ -1,5 +1,5 @@
 # trakt-data-restore
-Simple python scripts to format any trakt data from the app cache or browser localstorage after 07.11.2022. 
+Simple python scripts to format any trakt data from the app-cache or browser-localstorage after the 07.11.2022 downtime of `trakt.tv`.  
 
 ## how to use
 0. (setup Python)
